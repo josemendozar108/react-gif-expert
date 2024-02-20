@@ -11,8 +11,7 @@ export const GifExpertApp = () => {
       // console.log(newCategory); 
     // Evitar usar el "push"
     // categories.push(newCategory); 
-    setCategories([newCategory, ...categories]); 
-
+    setCategories([newCategory, ...categories]);  
 
   }
 
